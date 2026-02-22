@@ -12171,5 +12171,3 @@
 
 
 -[@lone4d7](https://github.com/lone4d7)
-
--[@renaud90](https://github.com/renaud90)
