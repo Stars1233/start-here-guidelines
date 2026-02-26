@@ -1154,6 +1154,7 @@
 - [@JKDJames](https://github.com/JKDJames)
 - [@Sabarish](https://github.com/SabGalaxy)
 - [@Ezzu](https://github.com/Ezziu)
+- [@LukeOpany](https://github.com/LukeOpany)
 - [@gezginrocker](https://github.com/gezginrocker)
 - [@kashishkohli20](https://github.com/kashishkohli20)
 - [@dtl-max](https://github.com/dtl-max)
