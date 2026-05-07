@@ -28,6 +28,8 @@
 
 - [@4Ztl4N](https://github.com/4ztl4N)
 
+- [@SonaLakhotia](https://github.com/SonaLakhotia)
+
 - [@507Cardoze](https://github.com/507cardoze)
 
 - [@5Marvv](https://github.com/5marvv)
