@@ -28,6 +28,8 @@
 
 - [@4Ztl4N](https://github.com/4ztl4N)
 
+- [@SonaLakhotia](https://github.com/SonaLakhotia)
+
 - [@507Cardoze](https://github.com/507cardoze)
 
 - [@5Marvv](https://github.com/5marvv)
@@ -635,6 +637,8 @@
 - [@Azghoursaad](https://github.com/Azghour-Saad)
 
 - [@Azmalhussain](https://github.com/azmalhussain)
+
+- [@abdulrahmanhossam](https://github.com/abdulrahmanhossam)
 
 - [@B0Mbic](https://github.com/b0mbic)
 
@@ -2008,6 +2012,8 @@
 
 - [@Hmaness1999Dev](https://github.com/hmaness1999-dev)
 
+- [@Vir-Suppae](https://github.com/vir-suppae)
+
 - [@Hnog](https://github.com/HNog)
 
 - [@Hokumi](https://github.com/hokumi)
@@ -2495,6 +2501,8 @@
 - [@Jtor8](https://github.com/jtor8)
 
 - [@Jtrcarlos](https://github.com/jtrcarlos)
+
+- [@FraDev85](https://github.com/FraDev85)
 
 - [@Juandaniel1995](https://github.com/JuanDaniel1995)
 
@@ -6554,5 +6562,8 @@
 
 - [@fatstinkypanda](https://github.com/fatstinkypanda)
 
--[@prakash094u](https://github.com/prakash094u)
+- [@mustaphaAlaa](https://github.com/mustaphaAlaa)
 
+- [@reatorshane](https://github.com/creatorshane)
+
+- [@prakash094u](https://github.com/prakash094u)
