@@ -2500,6 +2500,8 @@
 
 - [@Jtrcarlos](https://github.com/jtrcarlos)
 
+- [@FraDev85](https://github.com/FraDev85)
+
 - [@Juandaniel1995](https://github.com/JuanDaniel1995)
 
 - [@Juarezpistore](https://github.com/juarezpistore)
