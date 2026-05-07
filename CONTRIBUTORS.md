@@ -848,6 +848,8 @@
 
 - [@Byung2523](http://github.com/Byung2523)
 
+- [@Blackadi](https://github.com/blackadi)
+
 - [@C376W](https://github.com/c376W)
 
 - [@Caesaremp](https://github.com/Caesaremp)
@@ -2005,6 +2007,8 @@
 - [@Hmahajan99](https://github.com/hmahajan99)
 
 - [@Hmaness1999Dev](https://github.com/hmaness1999-dev)
+
+- [@Vir-Suppae](https://github.com/vir-suppae)
 
 - [@Hnog](https://github.com/HNog)
 
@@ -6545,3 +6549,13 @@
 - [@caap14](https://github.com/caap14)
 
 - [@bilalhalici](https://github.com/bilalhalici)
+
+- [@chloemays](https://github.com/chloemays)
+
+- [@greghahn](https://github.com/greg-hahn)
+
+- [@fatstinkypanda](https://github.com/fatstinkypanda)
+
+- [@reatorshane] (https://github.com/creatorshane)
+
+- [@prakash094u](https://github.com/prakash094u)
