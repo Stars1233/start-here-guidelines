@@ -228,7 +228,7 @@
 
 - [@Aks775](https://github.com/aks775)
 
--[@ajay99511](https://github.com/ajay99511)
+- [@ajay99511](https://github.com/ajay99511)
 
 - [@Akshaybhopani](https://github.com/AKSHAYBHOPANI)
 
