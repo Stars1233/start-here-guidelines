@@ -110,6 +110,8 @@
 
 - [@Abrams0](https://github.com/abrams0)
 
+- [@aritra-bhattacharyya05](https://github.com/aritra-bhattacharyya05)
+
 - [@Abw12](https://github.com/abw12)
 
 - [@Ac030540](https://github.com/ac030540)
